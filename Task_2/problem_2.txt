@@ -1,0 +1,19 @@
+START
+
+Declare Integer variables "a,b,c,i and n"
+
+Set 'a' as 0 and 'b' as 1
+
+Print "Enter the value of n"
+
+Store it in 'n'
+
+For( 'i' from 1 , till n )
+    'c' equals to sum of 'a' & 'b'
+	'a' equals to 'b' 
+	'b' equals to 'c'
+
+Print "a"
+
+END
+	

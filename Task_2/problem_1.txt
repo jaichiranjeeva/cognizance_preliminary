@@ -1,0 +1,17 @@
+START
+
+Print "Request for the input"
+
+Input n
+
+Real / float value k equals n divided with 3
+
+Integer "n equals real value k"
+
+If "n equals to k "
+    Print "true"
+Else 
+    Print "false"
+	
+END
+

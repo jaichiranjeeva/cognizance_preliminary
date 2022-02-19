@@ -1,0 +1,4 @@
+My Landing page was Done on a Software Application Qak-Tak
+
+Qak-Tak is a Dating application which is available on both Appstore and Playstore. 
+Which is now giving free trail membership if signed-up thorugh the website.
